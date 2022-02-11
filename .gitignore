@@ -1,0 +1,5 @@
+build*
+CMake*
+Makefile
+cmake*
+.vscode*
